@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vscode/
+.idea/
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
+out/
